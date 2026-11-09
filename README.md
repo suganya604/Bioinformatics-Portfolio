@@ -1,64 +1,84 @@
-\# Hi, I'm Suganya 👋
+\# Bioinformatics Portfolio
 
 
 
-🎓 B.Tech Bioinformatics Student (2023–2027)
+Hi! I'm Suganya K, a B.Tech Bioinformatics student at Tamil Nadu Agricultural University (TNAU).
 
 
 
-\## About Me
-
-I am interested in Bioinformatics, Computational Biology and Software Development.
+I am interested in bioinformatics, computational biology, and software development. This portfolio documents my hands-on learning, internship experience, and technical projects.
 
 
 
 \## Technical Skills
 
-\- Linux
-
-\- BLAST
-
-\- Python
-
-\- SQL
-
-\- Git and GitHub
-
-\- Sequence Analysis
 
 
+\- \*\*Programming:\*\* Python (Beginner)
 
-\## Current Learning
+\- \*\*Bioinformatics:\*\* BLAST, sequence analysis, FASTA
 
-\- NGS and sequence analysis
+\- \*\*Operating System:\*\* Linux
 
-\- Linux command line
+\- \*\*Databases:\*\* SQL (Beginner)
 
-\- Python programming
-
-\- Biological databases
+\- \*\*Tools:\*\* Git, GitHub, BLAST+
 
 
 
 \## Projects
 
-\- BLAST Sequence Analysis
 
-\- DNA Sequence Analyzer
 
-\- Linux Command Practice
+\### 1. Linux Practice for Bioinformatics
 
-\- Solanum torvum Research Project
+Practice of Linux terminal commands for file management, sequence inspection, and bioinformatics workflows.
+
+
+
+\[View Linux Practice](./Linux-Practice)
+
+
+
+\### 2. BLAST Sequence Analysis
+
+Hands-on practice of BLASTN and TBLASTX for nucleotide sequence comparison and alignment result interpretation.
+
+
+
+\[View BLAST Project](./BLAST-Sequence-Analysis)
+
+
+
+\## Internship Experience
+
+
+
+\*\*Bioinformatics Intern\*\*
+
+
+
+Hands-on learning in Linux command-line workflows, sequence analysis, and BLAST-based comparison.
 
 
 
 \## Career Interests
 
-Bioinformatics | Computational Biology | Software Development
+
+
+\- Bioinformatics
+
+\- Computational Biology
+
+\- Python Development
+
+\- Software Development
 
 
 
-\## GitHub
+\## Contact
 
-https://github.com/suganya604
+
+
+\- GitHub: \[suganya604](https://github.com/suganya604)
 
