@@ -1,0 +1,21 @@
+# Bioinformatics sequence data
+*.fasta
+*.fa
+*.fna
+*.fastq
+*.fq
+
+# BLAST output files
+*.blast
+*.blastout
+blast_results.txt
+tblastx_pairwise.txt
+tblastx_all_hsps.txt
+
+# Temporary files
+*.tmp
+*.bak
+
+# Credentials
+.env
+*.token
